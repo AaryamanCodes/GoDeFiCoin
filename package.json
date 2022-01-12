@@ -4,3 +4,17 @@
     "elliptic": "^6.5.4"
   }
 }
+"version": "1.0.0",
+  "name": "AaryamanCodes/GoDeFiCoin",
+  "description": "My Crypto Currency",
+  "author": {
+    "name": "aaryamancode",
+    "email": "aaryamang03@gmail.com",
+  },
+  "repository": {
+      "type": "git",
+      "url": "github.com/AaryamanCodes/GoDeFiCoin"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/AaryamanCodes"
+  },
